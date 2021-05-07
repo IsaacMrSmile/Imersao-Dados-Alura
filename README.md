@@ -1,6 +1,7 @@
 # <p align="center"> 🎲 Bem-vindo ao repositório Imersão de Dados Alura 🎲
 
-[![author](https://img.shields.io/badge/author-gustavolq-red.svg)](https://www.linkedin.com/in/gustavoquadra/)
+[![author](https://img.shields.io/badge/author-gustavolq-blue.svg)](https://www.linkedin.com/in/gustavoquadra/)
+
 
 Olá! Nesse repositório você irá encontrar os meus Notebooks com as respostas referentes as aulas da Imersão de Dados 2021 da Alura. 
 
@@ -59,6 +60,7 @@ Para o projeto, iremos utilizar os dados que podem ser verificados clicando [aqu
 
 - dados_experimentos.zip : Dados com os valores de expressão gênica, viabilidade celular, tratamento, dose, tempo para os diferentes experimentos.
 - dados_resultados.csv   : Dados com os valores de ativação ou não do Mecanismo de Ação.
+
 
 # <p align="center"> 💊 Um pouco mais sobre a área de Drug Discovery 💊
 
