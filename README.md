@@ -52,15 +52,17 @@ Para a realização do projeto, seguirei o seguinte planejamento :
 <b> 2.</b> Preparação dos Dados </br>
 <b> 3.</b> Análise Exploratória dos Dados </br>
 <b> 4.</b> Criação do Modelo de Machine Learning </br>
-<b> 5.</b> Apresentação do Resultado </br>
+<b> 5.</b> Otimização do Modelo de Mahcine Learning </br>
+<b> 6.</b> Apresentação do Resultado </br>
 
 ## Dados Utilizados no Projeto
 
-Para o projeto, iremos utilizar os dados que podem ser verificados clicando [aqui](https://github.com/gustavolq/Imersao-Dados-Alura/tree/main/Dados).
+Para o projeto, iremos utilizar duas bases de dados, que são :
 
 - dados_experimentos.zip : Dados com os valores de expressão gênica, viabilidade celular, tratamento, dose, tempo para os diferentes experimentos.
 - dados_resultados.csv   : Dados com os valores de ativação ou não do Mecanismo de Ação.
 
+-> [Clique aqui para verificar os dados](https://github.com/gustavolq/Imersao-Dados-Alura/tree/main/Dados) <-
 
 # <p align="center"> 💊 Um pouco mais sobre a área de Drug Discovery 💊
 
