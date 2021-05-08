@@ -52,7 +52,7 @@ Para a realização do projeto, seguirei o seguinte planejamento :
 <b> 2.</b> Preparação dos Dados </br>
 <b> 3.</b> Análise Exploratória dos Dados </br>
 <b> 4.</b> Criação do Modelo de Machine Learning </br>
-<b> 5.</b> Otimização do Modelo de Mahcine Learning </br>
+<b> 5.</b> Otimização do Modelo de Machine Learning </br>
 <b> 6.</b> Apresentação do Resultado </br>
 
 ## Dados Utilizados no Projeto
@@ -74,7 +74,7 @@ O conhecimento acumulado que temos hoje sobre quais plantas podem ser venenosas,
 
 Há também aqueles fármacos que foram descobertos por acaso, como é o caso da Penicilina, descoberta em 1928 por Alexander Fleming. Fleming fazia experimentos com bactérias cultivadas em placas de petri e, sem querer, algumas de suas placas foram contaminadas por fungos. Fleming reparou que as bactérias que estavam próximas dos fungos haviam morrido. Ele então descobriu que o fungo Penicillium rubens tinha propriedades antibióticas. 
 
-Hoje o desenvolvimento de novos fármacos se dá por meio de pesquisas ciêntificas, as quais buscam isolar e purificar compostos de palntas, fungos e microorganismos, elaborar e testar compostos sintéticos ou aprimoras fármacos já conhecidos.
+Hoje o desenvolvimento de novos fármacos se dá por meio de pesquisas ciêntificas, as quais buscam isolar e purificar compostos de plantas, fungos e microorganismos, elaborar e testar compostos sintéticos ou aprimorar fármacos já conhecidos.
 
 A biotecnologia vem revolucionando a farmacologia. Um exemplo é a insulina, usada no tratamento da diabetes e que antes era extraída de pâncreas de bois e porcos, hoje é extraída de bactérias que produzem a insulina humana por meio da técnica do DNA Recombinante, em que cientistas inseriram o gene humano da insulina no genoma das bactérias. 
 
