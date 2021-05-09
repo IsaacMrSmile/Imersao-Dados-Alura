@@ -38,6 +38,8 @@ Para finalizar a semana de Imersão de Dados 2021, fomos convidados à realizar 
 ## Introdução
 O projeto proposto na Imersão de Dados 2021 foi baseado na competição [Kaggle - Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa/overview) criado pela [The Connectivity Map](https://clue.io/), um projeto do Broad Institute of MIT e Harvard, do Laboratory for Innovation Science em Harvard (LISH) e da Biblioteca de Fundos Comuns do NIH de assinaturas celulares integradas em rede (LINCS) com o objetivo de avanço no desenvolvimento de medicamentos por meio de melhorias nos algoritmos de previsão do MoA (Mecanismos de Ação).
 
+-> [Clique aqui para visualizar o Notebook do Projeto Final](https://github.com/gustavolq/Imersao-Dados-Alura/blob/main/Projeto-Final/MoA_Prediction.ipynb) <-
+
 ## Escopo do Projeto
 
 O objetivo do nosso projeto será realizar a previsão da ocorrência ou não de um Mecanismo de Ação (MOA) através da combinação de diferentes experimentos realizados com compostos em culturas celulares, com doses, tratamentos e tempos diferentes. 
