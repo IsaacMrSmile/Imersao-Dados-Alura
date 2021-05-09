@@ -8,7 +8,7 @@ Olá! Nesse repositório você irá encontrar os meus Notebooks com as respostas
 A divisão dos diretórios ocorre da seguinte forma :
 - Aulas : Notebook com as 5 aulas e os desafios da Samana Imersão de Dados.
 - Dados : Arquivos utilizados como nossa base de dados.
-- Projeto : Notebook do projeto final.
+- Projeto-Final : Notebook do projeto final.
 
 Seja bem-vindo e fique à vontade para interagir!
 
