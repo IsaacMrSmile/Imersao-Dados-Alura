@@ -12,6 +12,8 @@ A divisão dos diretórios ocorre da seguinte forma :
 
 Seja bem-vindo e fique à vontade para interagir!
 
+Edit : Muito feliz em poder compartilhar que esse projeto foi um dos 10 selecionados para ganhar uma bolsa de 100% no Bootcamp de Ciência de Dados da Alura! 🏆
+
 ## Mas Gustavo, o que é a Imersão de Dados da Alura? 🤔
 A Imersão de Dados da Alura é um evento organizado pela [Alura](https://www.alura.com.br/), uma plataforma de cursos para diversas áreas dentro da Ciência da Computação, realizado anualmente, sendo essa a terceira edição, voltado para a área de [Ciência de Dados](https://pt.wikipedia.org/wiki/Ci%C3%AAncia_de_dados).
 
